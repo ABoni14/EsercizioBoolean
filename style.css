@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 20px;
+}
+
+.logo{
+  width: 250px;
+  margin-top: 40px;
+}
+
+.container{
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+main{
+  color: white;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+
+#title{
+  font-size: 32px;
+  color: lime;
+}
+
+header, nav, .naviga{
+  text-align: center;
+}
+
+.naviga{
+  background-color: lime;
+  width: 80%;
+  margin: auto;
+  margin-top: 25px;
+}
+
+button{
+  margin: 12px 5px 12px 5px;
+  color: black;
+  border: 1px solid black;
+}
+
+div h2{
+  display: inline-block;
+  margin-top: 20px;
+  font-family: font-family: 'Prompt', sans-serif;
+}
+
+p{
+  margin-top: 5px;
+}
+
+.form{
+  height: 30px;
+  border-radius: 7px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.battery-gino{
+  width: 450px;
+  background-color: orange;
+}
+
+.battery-mike{
+  width: 700px;
+  background-color: lime;
+}
+
+.battery-fede{
+  width: 250px;
+  background-color: red;
+}
